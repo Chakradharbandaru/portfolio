@@ -1,4 +1,4 @@
-<h1>Portfolio (Pranjay Poddar)</h1>
+<h1>Portfolio (Bandaru Venkata Chakradhar)</h1>
 protfolio link- <a href="https://pranjaypoddar.netlify.app/">pranjaypoddar.netlify.app/</a>
 
 <br><br>
