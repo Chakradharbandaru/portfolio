@@ -1,0 +1,25 @@
+{
+    "name": "Pranjay Poddar",
+    "short_name": "Pranjay Portfolio",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A portfolio app",
+    "icons": [{
+        "src": "./apple/p57.jpg",
+        "sizes": "57x57",
+        "type": "image/jpg"
+    }, {
+        "src": "./apple/p72.jpg",
+        "sizes": "72x72",
+        "type": "image/jpg"
+    }, {
+        "src": "./apple/p114.jpg",
+        "sizes": "114x114",
+        "type": "image/jpg"
+    }, {
+        "src": "./apple/p144.jpg",
+        "sizes": "144x144",
+        "type": "image/jpg"
+    }]
+}
